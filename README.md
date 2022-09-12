@@ -19,4 +19,3 @@
 - Book Series: Science
 - Keywords: economics , sociogenetics , genetics , biology , sociology.
 - Additional Information: ISBN: 9780578914541(eng)/ISBN: 9785020401358(rus)
-[GOOGLE BOOKS](https://books.google.com/books/about/The_Selective_Aspects_of_Production_Deve.html?id=oVVzzgEACAAJ)
