@@ -19,3 +19,7 @@
 - Book Series: Science
 - Keywords: economics , sociogenetics , genetics , biology , sociology.
 - Additional Information: ISBN: 9780578914541(eng)/ISBN: 9785020401358(rus)
+
+[<img src="https://github.com/NikolayTach/Sociology/blob/main/Screenshot%20from%202023-01-09%2014-31-11.png" width="320"/>](image.png)
+
+[<img src="https://github.com/NikolayTach/Sociology/blob/main/Screenshot%20from%202023-01-09%2014-29-47.png" width="330"/>](image.png)
